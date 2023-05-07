@@ -18,4 +18,4 @@ list and have an AI agent modify it on our behalf. And there's a challenge for
 future iterations: to make the bot acceppt more absrtact requests and do more
 of the planning itself.
 
-See [gpt-to-do.ipynb](gpt-to-do.ipynb)
+See [gpt-todo.ipynb](gpt-todo.ipynb)
