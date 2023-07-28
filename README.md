@@ -19,3 +19,10 @@ future iterations: to make the bot acceppt more absrtact requests and do more
 of the planning itself.
 
 See [gpt-todo.ipynb](gpt-todo.ipynb)
+
+Another implementation relies on the native Open AI function calling API,
+without relying on LangChain for orchestration. It works well for simple
+requests, but fails in complex interactions that require chaining multiple
+function calls.
+
+See [gpt-todo-functions.ipynb](gpt-todo-functions.ipynb)
